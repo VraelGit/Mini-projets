@@ -1,0 +1,122 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 04/10/2017 09:41:34
+
+BeginCmp
+TimeStamp = /59C24222;
+Reference = IC1;
+ValeurCmp = CNY70;
+IdModule  = CNY70;
+EndCmp
+
+BeginCmp
+TimeStamp = /59C2428E;
+Reference = IC2;
+ValeurCmp = CNY70;
+IdModule  = CNY70;
+EndCmp
+
+BeginCmp
+TimeStamp = /59B7F2D4;
+Reference = IC3;
+ValeurCmp = CNY70;
+IdModule  = CNY70;
+EndCmp
+
+BeginCmp
+TimeStamp = /59C235A8;
+Reference = IC4;
+ValeurCmp = CNY70;
+IdModule  = CNY70;
+EndCmp
+
+BeginCmp
+TimeStamp = /59B7F2E0;
+Reference = IC5;
+ValeurCmp = CNY70;
+IdModule  = CNY70;
+EndCmp
+
+BeginCmp
+TimeStamp = /59B7F8BD;
+Reference = P1;
+ValeurCmp = CONN_4;
+IdModule  = PIN_ARRAY_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /59B7D696;
+Reference = P2;
+ValeurCmp = CONN_5X2;
+IdModule  = PIN_ARRAY_5x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /59C2421C;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /59C24288;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /59B7E735;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /59C235A2;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /59C2392A;
+Reference = R5;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /59C25671;
+Reference = R7;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /59C25586;
+Reference = R8;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /59C254A5;
+Reference = R9;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /59C251D0;
+Reference = R10;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /59C252FC;
+Reference = R12;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+EndListe
