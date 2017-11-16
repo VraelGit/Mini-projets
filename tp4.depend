@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1510854188 source:c:\users\pascal\documents\info1\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1510858278 source:c:\users\pascal\documents\info1\tp4\exo1.c
+	<stdio.h>
+	<stdlib.h>
+
+1510862853 source:c:\users\pascal\documents\info1\tp4\exo2.c
+	<stdio.h>
+	<stdlib.h>
+
+1510864011 source:c:\users\pascal\documents\info1\tp4\exo3.c
+	<stdio.h>
+	<stdlib.h>
+
+1510866564 source:c:\users\pascal\documents\info1\tp4\exo4.c
+	<stdio.h>
+	<stdlib.h>
+
